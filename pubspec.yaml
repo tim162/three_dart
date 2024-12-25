@@ -14,7 +14,8 @@ dependencies:
   ffi: ^2.0.1
   image: ^3.1.1
   flutter_gl:
-    path: packages/flutter_gl/flutter_gl
+    git:
+      url: https://github.com/tim162/flutter_gl_core.git
   crypto: ^3.0.1
   meta:
   
